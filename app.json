@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "home",
+    "slug": "appass",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.tuan.banhang",
+      "googleServicesFile": "./configgoogle/google-services.json"
+    }, 
+  
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tuan.banhang",
+      "config":{
+        "googleSignIn":{
+          "reservedClientId":"com.googleusercontent.apps.765297743299-22vpulka4dfgimbil9jhj5ui1vg7u6ae"
+        }
+      }     
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "765297743299",
+    "firebase_url": "https://test-8ca79.firebaseio.com",
+    "project_id": "test-8ca79",
+    "storage_bucket": "test-8ca79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765297743299:android:feebcb226be2ce72",
+        "android_client_info": {
+          "package_name": "com.tuan.banhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765297743299-9tuq9tn75td04pb057jhnak9b7lcdtij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuan.banhang",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "765297743299-2q15hp8pgfko226bcu5j2753li4up7rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEHSThmz4vhm4RGikCxsh_5zeS934fos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765297743299-2q15hp8pgfko226bcu5j2753li4up7rh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765297743299-22vpulka4dfgimbil9jhj5ui1vg7u6ae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tuan.banhang",
+                "app_store_id": "12345678"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
